@@ -1,0 +1,18 @@
+[
+  {
+    "company": "ABC Corp",
+    "title": "entry level python developer",
+    "location": "remote",
+    "status": "applied",
+    "date_applied": "2026-01-04",
+    "notes": "n/a"
+  },
+  {
+    "company": "123 MIT CO",
+    "title": "IT support specialist",
+    "location": "remote",
+    "status": "interview",
+    "date_applied": "2026-01-04",
+    "notes": "n/a"
+  }
+]
